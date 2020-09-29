@@ -21,11 +21,10 @@ public class InfoActivity extends AppCompatActivity {
 
     }
     public void createPhoneIntent(View view){
-        Uri uria = Uri.parse("tel:0123456789");
-        Intent intenta = new Intent();
-        intenta.setAction(Intent.ACTION_DIAL);
-        intenta.setData(uria);
-        startActivity(intenta);
+
+        Intent phoneIntent = new Intent(Intent.ACTION_DIAL);
+        phoneIntent.setData(Uri.parse("tel:0123456789"));
+        startActivity(phoneIntent);
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {

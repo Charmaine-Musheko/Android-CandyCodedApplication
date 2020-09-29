@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601394600120</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lm">
+      <created>1601394841730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601394841730</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,10 +281,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601390108793" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601394586346">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601394838451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601394586346" />
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601394838451" />
     <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1601393081580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -294,9 +301,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601393081580" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601394635831">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601394865441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601394635831" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601394865441" />
   </component>
 </project>
