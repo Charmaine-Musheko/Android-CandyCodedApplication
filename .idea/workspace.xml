@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="3004955326ad2100" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -177,28 +173,56 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="lm">
+      <created>1601380971025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380971041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lm" />
+    <option name="LAST_COMMIT_MESSAGE" value="lm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="96" key="#PSD" timestamp="1601379145304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1601379145304" />
-    <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1601380706971">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601386293315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601380706971" />
-    <state width="637" height="176" key="GridCell.Tab.0.center" timestamp="1601380706970">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1601386293315" />
+    <state x="829" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1601389139120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601380706970" />
-    <state width="637" height="176" key="GridCell.Tab.0.left" timestamp="1601380706970">
+    <state x="829" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601389139120" />
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601380951003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601380706970" />
-    <state width="637" height="176" key="GridCell.Tab.0.right" timestamp="1601380706970">
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601380951003" />
+    <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1601388927766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601380706970" />
+    <state width="637" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601388927766" />
+    <state width="637" height="176" key="GridCell.Tab.0.center" timestamp="1601388927735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601388927735" />
+    <state width="637" height="176" key="GridCell.Tab.0.left" timestamp="1601388927735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601388927735" />
+    <state width="637" height="176" key="GridCell.Tab.0.right" timestamp="1601388927766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601388927766" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601381179708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601381179708" />
   </component>
 </project>
